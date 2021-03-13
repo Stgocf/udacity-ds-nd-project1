@@ -1,0 +1,2 @@
+In this project i try to pass the project 1 of the data science nanodegre in udacity.
+Using soccer data, i made a "first steps" for any person who wants a simple example of what data science is in real world.
